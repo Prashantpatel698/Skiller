@@ -139,7 +139,7 @@ html,body
     width: 45%;
     /* background-color: #952b2b; */
     position: relative;
-    transition: all linear 0.3s;
+    transition: all ease 0.5s;
 
 }
 
@@ -184,7 +184,7 @@ html,body
     width: 15%;
     /* background-color: #473589; */
     position: relative;
-  transition: all linear 0.3s;
+ transition: all ease 0.5s;
 }
 
 .right2 img
@@ -209,7 +209,7 @@ html,body
     width: 15%;
     /* background-color: #59b17c; */
     position: relative;
-    transition: all linear 0.3s;
+  transition: all ease 0.5s;
 }
 
 .right3 h4
